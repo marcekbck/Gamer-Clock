@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.pyo
+
+# IDEs (como VSCode, PyCharm)
+.vscode/
+.idea/
+*.swp
+
+# Outros arquivos desnecessários
+*.log
