@@ -1,0 +1,9 @@
+Interface
+    - Ajustar frame dos timers, muitos timers corta o botão +
+    - Melhorar os icons / Atribuir cores
+    - Colocar a App sempre sobreposta a jogos e apps
+    - Adicionar botão de retroceder em adicionar
+    
+Back-end
+    - Calcular tempo baseado em relógio local e não tempo cronometrado da app
+    - Criar e associar uma função para reiniciar os timers
